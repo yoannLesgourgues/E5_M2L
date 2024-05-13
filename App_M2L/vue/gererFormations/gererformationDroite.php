@@ -1,0 +1,3 @@
+<?php
+  $formgererformation->afficherFormulaire();
+?>
